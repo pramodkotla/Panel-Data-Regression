@@ -1,2 +1,3 @@
 # Panel-Data-Regression
-Predict the sales across all the stores of Rossmann for the panel data.
+Predict the sales of Rossmann stores using the panel data.
+Determine the individual potential of each store
